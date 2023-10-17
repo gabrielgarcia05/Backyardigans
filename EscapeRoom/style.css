@@ -20,6 +20,7 @@
 .alert:hover{
     background-color: rgb(202, 0, 0);
     opacity: 90%;
+    cursor: pointer;
 }
 
 h2{
@@ -64,7 +65,7 @@ body{
 }
 
 .img{
-    width: 44%;
+    width: 48%;
     cursor: grab;
 }
 
@@ -79,7 +80,7 @@ footer{
 f2{
     margin-top: 5%;
     margin-left: 5%;
-    color: black;
+    color: rgb(209, 206, 206);
     font-style: normal;
     font-size: large;
 }
